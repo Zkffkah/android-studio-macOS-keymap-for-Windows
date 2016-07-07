@@ -18,7 +18,9 @@
 
 
 3. For IntelliJ IDEA users:
+
     3.1. Disable Winkey OS shortcuts (e.g. http://www.askvg.com/tip-how-to-disable-all-win-keyboard-shortcuts-hotkeys-in-windows/)
+    
     3.2. Use provided "Mac OS X 10_5_for_Windows" keymap.
     http://codingmatters.blogspot.co.uk/2010/02/i-always-thought-its-not-possible-to.html
     http://youtrack.jetbrains.com/issue/IDEA-119932
