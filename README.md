@@ -22,8 +22,22 @@
     3.1. Disable Winkey OS shortcuts (e.g. http://www.askvg.com/tip-how-to-disable-all-win-keyboard-shortcuts-hotkeys-in-windows/)
     
     3.2. Use provided "Mac OS X 10_5_for_Windows" keymap.
+    
     http://codingmatters.blogspot.co.uk/2010/02/i-always-thought-its-not-possible-to.html
+    
     http://youtrack.jetbrains.com/issue/IDEA-119932
+    
+  >  Where the keymaps are stored?
+
+  > All user-defined keymaps are stored in separate configuration files under the config/keymaps subdirectory in the IntelliJ IDEA profile directory:
+
+  > - Windows and *NIX systems: <User home>/.IntelliJ IDEA<xx>/config/keymaps
+  
+  > - OS X: ~/Library/Preferences/IntelliJ IDEA<xx>/keymaps/
+  
+  > Each keymap file contains only differences between the current and the parent keymaps.
+  
+  >  (https://www.jetbrains.com/help/idea/2016.1/configuring-keyboard-shortcuts.html)
 
 
 
